@@ -3,10 +3,11 @@
 import sys
 from subprocess import call
 
-project_name = "clothes_classifier"
+project_name = "clothes_classifier/"
 search_term = sys.argv[1]
 num_imgs = sys.argv[2]
 path = "fastai/courses/dl1/data/" + project_name
+#path = "~/Documents/fastai_projects/data/" + project_name
 dest = "images/" + search_term
 chromedriver = "~/../../Applications/chromedriver"
 
