@@ -1,0 +1,4 @@
+gcloud compute ssh --zone=us-west1-b jupyter@fastai-instance -- -L 8080:localhost:8080
+cd tutorials/fastai/course-v3
+git pull
+conda install fastai  -c fastai -c pytorch
