@@ -3,6 +3,6 @@ Projects from the fastai course
 
 
 ## Clothing Classifier
-Accuracy (320 images per class): 87%
+Accuracy (320 images per class): 85%
 
-Accuracy duplicates and mislabeled items cleaned: 83%
+Accuracy duplicates and mislabeled items cleaned a little: 86%
