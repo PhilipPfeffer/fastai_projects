@@ -1,5 +1,5 @@
 # fastai_projects
-Projects from the fastai course
+Projects using the fastai library
 
 
 ## Clothing Classifier
